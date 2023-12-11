@@ -1,0 +1,17 @@
+# textdomain: envelopes
+Blank Envelope=
+Addressee=
+Write a letter=
+Text=
+Attn. (Optional)=
+Seal=
+Sealed Envelope=
+Opened Envelope=
+To: @1=
+From: @1=
+Attn: @1=
+The seal can only be opened by the addressee!=
+A letter from @1 to @2=
+Close=
+Please fill out all required fields.=
+Unable to create letter! Check your inventory space.=
