@@ -1,0 +1,17 @@
+# textdomain: envelopes
+Blank Envelope=Senskriba koverto
+Addressee=Adresato
+Write a letter=Skribi leteron
+Text=Teksto
+Attn. (Optional)=Atentu (malnepra)
+Seal=Sigeli
+Sealed Envelope=Sigelita koverto
+Opened Envelope=Malfermita koverto
+To: @1=Al: @1
+From: @1=De: @1
+Attn: @1=Atent: @1
+The seal can only be opened by the addressee!=La sigelo sole rompeblas al la adresito!
+A letter from @1 to @2=Letero de @1 al @2
+Close=Fermi
+Please fill out all required fields.=Bonvolu plenigi ĉiun nepran tekstokampon.
+Unable to create letter! Check your inventory space.=Ne povis krei leteron! Certigu ke via portaĵujo ne tro plenas.
